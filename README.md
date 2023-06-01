@@ -1,4 +1,7 @@
 # Signal Generator Web App
+
+[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+
 This web app is to represent how you can use streamlit to interactively generate signals using Numpy and Scipy packages. Also, you can download the generated signal as a csv file.
 
 There are 6 python files in this repository:
