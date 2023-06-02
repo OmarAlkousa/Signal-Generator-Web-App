@@ -1,4 +1,4 @@
 numpy
-scipy.signal
+scipy
 io
-plotly.express
+plotly
