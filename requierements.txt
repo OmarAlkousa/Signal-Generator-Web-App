@@ -1,4 +1,0 @@
-numpy
-scipy.signal
-io
-plotly
