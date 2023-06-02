@@ -1,6 +1,6 @@
 # Signal Generator Web App
 
-[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omaralkousa-signal-generator-web-ap-plication.streamlit.app/)
 
 This web app is to represent how you can use streamlit to interactively generate signals using Numpy and Scipy packages. Also, you can download the generated signal as a csv file. You can generate sine, cosine, square, chirp, sawtooth, or frequency-swept cosine signals.
 
